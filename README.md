@@ -1,4 +1,15 @@
-# Data-Science-Python
+# Data Science & Machine Learning Projects (Python)
 
-- Selectd data science methods applied to various data e.g (Time series, cross sectional).
-- I am focusing here mostly on Machine Learning ( Supervised , Unsuperivised) ,Econometrics (OLS ) , Time Series forecasting (Sarima acf ,pacf stationarity tests) , Volatility estimation (GARCH ,APARCH, EGARCH, FIGARCH )  
+- This repository contains a collection of projects focused on data analysis, data preprocessing, and machine learning in Python.
+
+# Technologies and Libraries
+
+- The projects use core tools from the Python data science stack:
+- NumPy 
+- Pandas 
+- Matplotlib 
+- Seaborn
+- Scikit-learn and its instances e.g (ensamble,metrics,selection)
+- Jupyter Notebook
+- HDBSCAN
+- XGBOOST 
