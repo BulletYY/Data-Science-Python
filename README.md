@@ -1,6 +1,6 @@
 # Data Science & Machine Learning Projects (Python)
 
-- This repository contains a collection of projects focused on data analysis, machine learning , Time series forecasting, volatility estimation . 
+- This repository contains a collection of projects focused on data analysis, machine learning , Time series forecasting, volatility estimation and spectral analysis . 
 
 # Technologies and Libraries
 
